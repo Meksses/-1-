@@ -1,0 +1,8 @@
+text = "Hello World"
+name ="Makson"
+sur = "Orynchak"
+age = 16
+print ("Text:",text)
+print ("Name:",name)
+print ("Surname:",sur)
+print ("Age:",age)
